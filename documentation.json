@@ -101,7 +101,8 @@
           {
             "title": "Help Center",
             "path": "help-center",
-            "icon": "home"
+            "icon": "home",
+            "content-width": "wide"
           },
           {
             "group": "FAQs",
