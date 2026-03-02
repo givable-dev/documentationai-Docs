@@ -103,7 +103,9 @@
             "path": "help-center",
             "icon": "home",
             "show-page-navigation": false,
-            "ask-feedback": false
+            "ask-feedback": false,
+            "show-toc": false,
+            "show-parent-label": false
           },
           {
             "group": "FAQs",
